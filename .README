@@ -1,0 +1,4 @@
+Netlify Functions + Expressdeploy to netlify
+Example of using Node.js & Express with Netlify functions for server side rendered applications.
+
+For more information read the post on how to run Express.js apps with Netlify Functions
